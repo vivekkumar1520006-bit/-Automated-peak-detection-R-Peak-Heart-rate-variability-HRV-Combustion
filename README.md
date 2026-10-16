@@ -15,7 +15,7 @@ This project is developed as part of my college learning.
 - **Department:** Information Technology
 - **Course:** B.Tech
 - **Lab:** Virtual Lab
-- **Email:** vivekkumar,1520006@gmail,com
+- **Email:** vivekkumar.1520006@gmail.com
 
 ## Project Objectives
 
@@ -27,4 +27,4 @@ This project is developed as part of my college learning.
 
 | S.No. | Name | Department | Institute | Email |
 |---|---|---|---|---|
-| 1 | Vivek | Information Technology | Rajkiya Engineering College Banda |vivekkumar,1520006@gmail,com|
+| 1 | Vivek | Information Technology | Rajkiya Engineering College Banda |vivekkumar.1520006@gmail.com|
