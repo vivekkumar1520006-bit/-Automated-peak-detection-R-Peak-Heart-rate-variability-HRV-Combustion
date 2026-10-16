@@ -1,36 +1,30 @@
-# Automated R-Peak Detection and Heart Rate Variability (HRV)
+# My College Project
 
 ## Introduction
-This project focuses on detecting R-peaks from ECG signals
-and analyzing Heart Rate Variability (HRV).
+
+Welcome to my GitHub project!
 
 ## About the Project
-The system processes ECG signals, identifies R-peaks,
-and uses the detected peaks to study heart rate patterns.
 
-## Objectives
-- Detect R-peaks in ECG signals.
-- Calculate heart rate from detected peaks.
-- Analyze Heart Rate Variability (HRV).
-- Visualize ECG signals and detected peaks using graphs.
-
-## Technologies Used
-- Python
-- NumPy
-- Matplotlib
-
-## Working
-1. Load or generate an ECG signal.
-2. Process the signal.
-3. Detect R-peaks.
-4. Calculate heart rate and HRV-related measurements.
-5. Display the results using graphs.
+This project is developed as part of my college learning.
 
 ## Developer Details
-- Name: Vivek
-- Institute: Rajkiya Engineering College Banda
-- Department: Information Technology
-- Course: B.Tech
 
-## Project Status
-Academic project under development.
+- **Name:** Vivek
+- **Institute:** Rajkiya Engineering College Banda
+- **Department:** Information Technology
+- **Course:** B.Tech
+- **Lab:** Virtual Lab
+- **Email:** vivekkumar,1520006@gmail,com
+
+## Project Objectives
+
+- To learn programming.
+- To develop practical skills.
+- To understand project development.
+
+## Contributors
+
+| S.No. | Name | Department | Institute | Email |
+|---|---|---|---|---|
+| 1 | Vivek | Information Technology | Rajkiya Engineering College Banda |vivekkumar,1520006@gmail,com|
